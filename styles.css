@@ -10,6 +10,17 @@ body {
     justify-content: space-evenly;
 }
 
+.body-one {
+    display: flex;
+    background-color: #1F2937; 
+    color: white;
+    justify-content: space-evenly;
+
+}
+
+.image {
+    background-color: grey;
+}
 
 ul {
     display: flex;
