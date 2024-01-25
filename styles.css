@@ -18,6 +18,10 @@ body {
 
 }
 
+.body-one .right {
+    background-color: grey;
+}
+
 .image {
     background-color: grey;
 }
