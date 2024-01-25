@@ -1,7 +1,7 @@
 body {
     margin: 0;
+    font-family: "Roboto";
 }
-
 
 .header {
     display: flex;
@@ -21,6 +21,10 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.body-three {
+    background-color: #E5E7EB;
 }
 
 .body-one .right {
