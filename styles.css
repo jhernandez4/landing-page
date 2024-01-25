@@ -22,10 +22,16 @@ body {
     background-color: grey;
 }
 
-.image {
+.right .image {
     background-color: grey;
 }
 
+.image {
+    width: 100px;
+    height: 100px;
+    border: 2px solid #3882F6;
+    border-radius: 12px;
+}
 ul {
     display: flex;
     list-style-type: none;
