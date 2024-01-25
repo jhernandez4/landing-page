@@ -15,7 +15,12 @@ body {
     background-color: #1F2937; 
     color: white;
     justify-content: space-evenly;
+}
 
+.body-two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .body-one .right {
@@ -32,6 +37,26 @@ body {
     border: 2px solid #3882F6;
     border-radius: 12px;
 }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.text {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    width: 100px;
+}
+
+.bottom {
+    display: flex;
+    gap: 24px;
+}
+
 ul {
     display: flex;
     list-style-type: none;
