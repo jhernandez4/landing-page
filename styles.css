@@ -27,11 +27,11 @@ body {
     background-color: grey;
 }
 
-.right .image {
+.image {
     background-color: grey;
 }
 
-.image {
+.illustration {
     width: 100px;
     height: 100px;
     border: 2px solid #3882F6;
