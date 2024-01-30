@@ -28,6 +28,13 @@ body {
 
 .body-three {
     background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quote {
+    width: 350px;
 }
 
 .body-one .right {
