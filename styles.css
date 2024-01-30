@@ -34,7 +34,18 @@ body {
 }
 
 .quote {
-    width: 350px;
+    width: 800px;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: ligher;
+    font-style: italic;
+}
+
+.author {
+    width: 800px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: right;
 }
 
 .body-one .right {
