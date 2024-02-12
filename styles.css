@@ -31,13 +31,15 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 125px;
+    padding-bottom: 125px;
 }
 
 .quote {
     width: 800px;
     color: #1F2937;
     font-size: 36px;
-    font-weight: ligher;
+    font-weight: light;
     font-style: italic;
 }
 
