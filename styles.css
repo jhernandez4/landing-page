@@ -65,12 +65,14 @@ body {
 .hero-main{
     font-size: 48px;
     font-weight: bolder;
-    color: #F9FAF8
+    color: #F9FAF8;
+    width: 350px;
 }
 
 .hero-secondary {
     font-size: 18px;
-    color: #E5E7EB
+    color: #E5E7EB;
+    width: 450px;
 }
 
 .sign-up {
@@ -82,14 +84,21 @@ body {
     border-radius: 8px;
     width: 160px;
     height: 45px;
+    margin-top: 12px;
+}
+
+.body-one .left {
+    display: flex;
+    flex-direction: column;
 }
 
 .body-one .right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: grey;
-}
-
-.image {
-    background-color: grey;
+    width: 500px;
+    height: 200px;
 }
 
 .illustration {
