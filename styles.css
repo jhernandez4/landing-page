@@ -36,7 +36,7 @@ body {
     padding-bottom: 125px;
 }
 
-.footer {
+.body-four {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -108,25 +108,25 @@ body {
     height: 200px;
 }
 
-.footer .left {
+.body-four .left {
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: left;
 }
 
-.footer .right {
+.body-four .right {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.footer .top {
+.body-four .top {
     font-size: 25px;
     font-weight: bold;
 }
 
-.footer .sign-up {
+.body-four .sign-up {
     border: 2px solid white;
 }
 
