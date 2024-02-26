@@ -62,6 +62,28 @@ body {
     text-align: right;
 }
 
+.hero-main{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8
+}
+
+.hero-secondary {
+    font-size: 18px;
+    color: #E5E7EB
+}
+
+.sign-up {
+    color: white;
+    background-color: #3882F6;
+    font-size: 20px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 8px;
+    width: 160px;
+    height: 45px;
+}
+
 .body-one .right {
     background-color: grey;
 }
